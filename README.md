@@ -25,7 +25,7 @@ GoodTreks is a web application inspired by GoodTreks built using Ruby on Rails a
 [components]: ./Docs/ComponentHierarchy.md
 [stores]: ./Docs/FluxStores.md
 [api-endpoints]: ./Docs/APIEndpoints.md
-[schema]: ./Docs/schema.md
+[schema]: ./Docs/DBSchema.xlsx
 
 ## Implementation Timeline
 
