@@ -1,39 +1,39 @@
-trekStore
-	Actions:
-		receiveAlltreks
-		receiveSingletrek
-		removetrek
+##trekStore
+- Actions:
+	- receiveAlltreks
+	- receiveSingletrek
+	- removetrek
 
-	Listeners:
-		treksIndex
-		trekDetail
-		trekFormStore
+- Listeners:
+	- treksIndex
+	- trekDetail
+	- trekFormStore
 
-trekFormStore
-	Actions:
-		receivetrekFormParams
+- trekFormStore
+	- Actions:
+		- receivetrekFormParams
 
-	Listeners:
-		trekForm
-		trekStore
+	- Listeners:
+		- trekForm
+		- trekStore
 
-searchStore
-	Actions:
-		receiveSearchParams
+- searchStore
+	- Actions:
+		- receiveSearchParams
 
-	Listeners:
-		SearchIndex
+	- Listeners:
+		- SearchIndex
 
-searchSuggestionStore
+- searchSuggestionStore
 
-	Actions:
-		receiveSearchSuggestions
-	Listeners:
-		SearchSuggestions
+	- Actions:
+		- receiveSearchSuggestions
+	- Listeners:
+		- SearchSuggestions
 
-tagStore
+##tagStore
 
-	Actions:
-		receiveAllTags
-	Listeners:
-		clickedTag
+	- Actions:
+		- receiveAllTags
+	- Listeners:
+		- clickedTag

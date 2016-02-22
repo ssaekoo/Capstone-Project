@@ -1,12 +1,12 @@
-Component Hierarchy
+##Component Hierarchy
 
-App
-	SearchIndex
-	trekbooksIndex
-		trekbookIndexItem
-	trekbookForm
-	treksIndex
-		trekForm
-		trekIndexItem
-	trekDetail
-		trekTags
+###App
+- SearchIndex
+- trekbooksIndex
+	- trekbookIndexItem
+- trekbookForm
+- treksIndex
+	- trekForm
+	- trekIndexItem
+- trekDetail
+	- trekTags
