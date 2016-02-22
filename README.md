@@ -21,11 +21,11 @@ GoodTreks is a web application inspired by GoodTreks built using Ruby on Rails a
 * [API endpoints][api-endpoints]
 * [DB schema][schema]
 
-[views]: ./docs/GoodTreks.png
-[components]: ./docs/ComponentHierarchy.md
-[stores]: ./docs/FluxStores.md
-[api-endpoints]: ./docs/APIEndpoints.md
-[schema]: ./docs/schema.md
+[views]: ./Docs/GoodTreks.png
+[components]: ./Docs/ComponentHierarchy.md
+[stores]: ./Docs/FluxStores.md
+[api-endpoints]: ./Docs/APIEndpoints.md
+[schema]: ./Docs/schema.md
 
 ## Implementation Timeline
 
@@ -124,9 +124,3 @@ which has its own `Index` view.
 - [ ] Changelogs for Treks
 - [ ] Equipment recommendations for Trek
 - [ ] Backpackers dictionary
-
-[phase-one]: ./docs/phases/phase1.md
-[phase-two]: ./docs/phases/phase2.md
-[phase-three]: ./docs/phases/phase3.md
-[phase-four]: ./docs/phases/phase4.md
-[phase-five]: ./docs/phases/phase5.md
